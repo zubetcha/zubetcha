@@ -1,5 +1,5 @@
-### Hi there, I'm zubetcha. 👋
-### And I have an interest in front-end developing! 👩🏻‍💻
+### 👋 Hi there, I'm zubetcha. 
+### 👩🏻‍💻 And I have an interest in front-end developing! 
 
 <!--
 **zubetcha/zubetcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
