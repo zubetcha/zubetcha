@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm zubetcha. 
+### 👋 Hi there, I'm zubetcha!
 ### 👩🏻‍💻 And I have an interest in front-end developing! 
 
 <!--
