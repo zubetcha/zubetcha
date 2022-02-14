@@ -1,17 +1,18 @@
-### 👋 Hi there, I'm zubetcha!
-### 👩🏻‍💻 And I have an interest in UX and front-end developing! 
 
-<!--
-**zubetcha/zubetcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<h4 align="center">
+  🙋🏻‍♀️ Hi, there.<br/>
+  I'm <span style="font-weight: bold;">Juhye Jeong</span> and a front-end developer.<br/>
+  I'm sincere, passionate & always trying to keep calm & making steady progress toward my goal.
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/91620721/153785253-f21d8975-5d11-46f8-b233-9bc1f7ec7a2a.png" alt="_" >
+</div>
