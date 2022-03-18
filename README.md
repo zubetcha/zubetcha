@@ -4,7 +4,7 @@
 <h3 align="center">🙋🏻‍♀️ Hi, I'm Juhye Jeong and a front-end developer.</h3>
 <p align="center">
   I'm sincere, passionate & always trying to keep calm & making steady progress toward my goal.<br/>
-  Get in touch at <a href="">zuhye5@gmail.com</a>
+<!--   Get in touch at <a href="">zuhye5@gmail.com</a> -->
 </p>
 
 <br/>
